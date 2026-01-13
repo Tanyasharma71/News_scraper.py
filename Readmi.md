@@ -1,1 +1,2 @@
 readmi
+news scraper
